@@ -10,6 +10,7 @@ namespace MG_PIS1
 
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Novo");
+            Console.WriteLine("DODATAK");
         }
     }
 }
