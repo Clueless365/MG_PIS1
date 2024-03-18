@@ -4,6 +4,7 @@ public class Class1
 {
 	public Class1()
 	{
-		void EmptyMethod();
-	}
+        void EmptyMethod();
+       //fixed
+    }
 }
